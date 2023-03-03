@@ -32,7 +32,7 @@
         "normalize.css": "7.0.0",
         "sass-loader": "6.0.6",
         "style-loader": "0.19.0",
-        "tap": "11.0.0",
+        "tap": "11.1.5",
         "tiny-emitter": "2.0.2",
         "uglifyjs-webpack-plugin": "1.1.4",
         "vue": "2.5.13",
